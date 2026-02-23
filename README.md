@@ -1,0 +1,2 @@
+# bashpractice
+Practicing bash
